@@ -6,7 +6,7 @@ class Program
     {
         Console.WriteLine("=== Ejercicio de Promedio ===");
         Console.WriteLine("Instrucciones:");
-        Console.WriteLine("1. Ingrese 5 números enteros.");
+        Console.WriteLine("1. Ingrese 5 números enteros..");
         Console.WriteLine("2. Los números se guardarán en un arreglo.");
         Console.WriteLine("3. La función Promedio calculará el resultado.");
         Console.WriteLine("4. Muestre el promedio en pantalla con 2 decimales.");
